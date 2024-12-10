@@ -17,21 +17,21 @@ Structural variants (SVs) drive gene expression in the human brain and are causa
 
 
 **1.Variant calling and QC** 
-1.1 
-1.2 
+- 1.1 
+- 1.2 
 
 
 **2. eQTL analyses** 
-2.1 
-2.2 
+- 2.1 
+- 2.2 
 
 
 **3. Methyaltion analyses**
 
-3.1 
-3.2 
+- 3.1 
+- 3.2 
 
 **4.  mQTL analyses**
 
-4.1 
-4.2 
+- 4.1 
+- 4.2 
