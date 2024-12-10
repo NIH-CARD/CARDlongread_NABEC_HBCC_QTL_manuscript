@@ -6,7 +6,7 @@
 
 **Last Updated**: December 2024 
 
-**Quick Description**: Assesing the impact of SNV and SV on gene expression and in the human brain using longread-seqeuncing data. 
+**Quick Description**: Evaluating the impact of SNVs and SVs on gene expression and methylation in the human brain using long-read sequencing data. 
 
 **Link to Manuscript:** 
 
