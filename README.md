@@ -1,6 +1,6 @@
 # **Long-read sequencing of hundreds of diverse brains provides insight into the impact of structural variation on gene expression and DNA methylation**
 
-![Sample Image](assets/sample-image.png)
+![Sample Image](Workflow.png)
 
 **Written By:** *Kimberley Billingsley, *Melissa Meredith, *Kensuke Daida
 
