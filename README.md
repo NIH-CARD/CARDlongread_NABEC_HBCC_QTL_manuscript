@@ -2,6 +2,8 @@
 
 ![Sample Image](Workflow.png)
 
+CARD ❤️ Open Science 😍
+
 **Written By:** *Kimberley Billingsley, *Melissa Meredith, *Kensuke Daida
 
 **Last Updated**: December 2024 
