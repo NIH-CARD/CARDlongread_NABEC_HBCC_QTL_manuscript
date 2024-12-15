@@ -526,3 +526,9 @@ plt.tight_layout()
 
 plt.savefig('WG1kg_Methylation_HighAgeCorr_and_LR_0.1Slope_NABEC_PCDHA_B-HCorr_&_HBCC..png',dpi=300, facecolor='white', transparent=False)
 
+
+
+### py genome tracks
+make_tracks_file --trackFiles gencode.v47.grch38.gtf nabec_wg1kb_lr_df_bh_sig_slope0.05.bed -o tracks.ini
+
+pyGenomeTracks --tracks tracks.ini --region chr5:141280749-141590996 -o pyGT_PCDH_image.png
