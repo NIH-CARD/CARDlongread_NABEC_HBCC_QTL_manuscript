@@ -19,8 +19,9 @@ This is the online repository for the article titled "Long-read sequencing of hu
 
 
 **1.Variant calling and QC** 
-- 1.1 
-- 1.2 
+- 1.1 Sv_merging.py: script to localize and merge SVs on Terra using Sniffles and Truvari. 
+- 1.2 truvari_resolve_symbolic_svs.py: script to replace symbolic SVs with reference sequence for merging. 
+- 1.3 sv_figure_ploting.py: script to plot figures describing the merged SV set.
 
 
 **2. eQTL analyses** 
@@ -30,8 +31,9 @@ This is the online repository for the article titled "Long-read sequencing of hu
 
 **3. Methyaltion analyses**
 
-- 3.1
-- 3.2 
+- 3.1 unphased_bedmethyl_merge.py: localizes and merges aggregated methylation for samples in each cohort. 
+- 3.2 phased_methylation_merge_funcitons.py: functions used in the merging process
+- 3.3 GenomeWindowingMethylation_and_AgeRegressions_COV_gender_PMI.py: Merging aggregated windows of methylation across the genome, running linear regressions with age and covarites, plotting methylation figure images. 
 
 **4.  mQTL analyses**
 
