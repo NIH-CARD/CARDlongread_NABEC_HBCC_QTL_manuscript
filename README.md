@@ -24,16 +24,16 @@ This is the online repository for the article titled "Long-read sequencing of hu
 
 
 **2. eQTL analyses** 
-- 2.1 
-- 2.2 
+- 2.1 prep_quants_RNA.ipynb:  notebook to format expression data for tensorQTL
+- 2.2 cis_eqtl_tensorqtl.ipynb:  notebook to run tensorQTL
 
 
 **3. Methyaltion analyses**
 
-- 3.1 
+- 3.1
 - 3.2 
 
 **4.  mQTL analyses**
 
-- 4.1 
-- 4.2 
+- 4.1  cis_mqtl_tensorqtl.ipynb:  notebook to format methylation data for tensorQTL
+- 4.2  cis_mqtl_tensorqtl.ipynb:  notebook to run tensorQTL
